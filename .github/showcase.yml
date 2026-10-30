@@ -1,0 +1,7 @@
+# Showcase content overrides (schema: github-showcase-skill references/repo-config.schema.json). Content only.
+for: Pick-Your-AI/pick-your-ai-cloud-agents
+icon: assets/icon.png
+subtitle: "Research on cloud agent platforms, SDKs and runtimes"
+chips:
+  key: ["Cloud agents"]
+  attrs: ["SDKs", "Runtimes", "Architecture"]
