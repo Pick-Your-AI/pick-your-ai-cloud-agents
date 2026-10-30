@@ -17,7 +17,7 @@
 <!-- showcase:badges:end -->
 
 <!-- showcase:tagline:start -->
-**Research home for cloud agent platforms, SDKs, runtimes and architecture across AWS, OpenAI, Anthropic and other providers. Initial organizational setup only.**
+**Track early research on cloud agent platforms, SDKs, runtimes and architecture across AWS, OpenAI, Anthropic and others.**
 <!-- showcase:tagline:end -->
 
 </div>
