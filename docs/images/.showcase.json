@@ -1,0 +1,83 @@
+{
+ "config_sha256": "bd2386d654a06b2602ae9a379db613a44b7718a69e59e596c1aa59b3a6519e56",
+ "fingerprint": "617413ccd5c868866babbf766c7a807b5c58674d2854803c9f8391e131836e64",
+ "inputs": {
+  "description": "Research home for cloud agent platforms, SDKs, runtimes and architecture across AWS, OpenAI, Anthropic and other providers. Initial organizational setup only.",
+  "icon_sha256": "dd30d039b85ca9e897ed258748ea1d9ef2754689fc5c4008dc7333d7e8f7ced1",
+  "language": null,
+  "license": null,
+  "override_sha256": "ae570e21d807108970ee68126ab8727e40c6a3aafdc580d3d1c303ac8b44d0a4",
+  "owner": "Pick-Your-AI",
+  "repo": "pick-your-ai-cloud-agents",
+  "topics": [],
+  "type": "workspace",
+  "visibility": "public"
+ },
+ "outputs": {
+  "banner.png": {
+   "bytes": 86537,
+   "chips": [
+    {
+     "box": [
+      520,
+      237.9,
+      154.9,
+      38
+     ],
+     "kind": "key",
+     "source": "override",
+     "text": "Cloud agents"
+    },
+    {
+     "box": [
+      686.9,
+      237.9,
+      77.6,
+      38
+     ],
+     "kind": "attr",
+     "source": "override",
+     "text": "SDKs"
+    },
+    {
+     "box": [
+      776.5,
+      237.9,
+      119.1,
+      38
+     ],
+     "kind": "attr",
+     "source": "override",
+     "text": "Runtimes"
+    },
+    {
+     "box": [
+      907.6,
+      237.9,
+      146.1,
+      38
+     ],
+     "kind": "attr",
+     "source": "override",
+     "text": "Architecture"
+    }
+   ],
+   "icon_source": "override",
+   "px": [
+    2560,
+    720
+   ],
+   "repository_id": 1439072266,
+   "scale": 2,
+   "sha256": "1d2cca5af678e2f15d3637b4dca3259da610a7fbcd60130309ec7f314964e9f0"
+  },
+  "card.svg": {
+   "bytes": 27582,
+   "repository_id": 1439072266,
+   "sha256": "bf61951117deeb78517d6c7875e6e763ff9a2d32dd0b0cbe3d5ef7f71f47ea89"
+  }
+ },
+ "schema": 1,
+ "skill_version": "1.0.0",
+ "standard": "ct-std-v1"
+}
