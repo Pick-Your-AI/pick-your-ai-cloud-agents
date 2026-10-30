@@ -18,3 +18,8 @@ Future work may cover agent frameworks, managed runtimes, orchestration, tools a
 Existing research remains in [pick-your-ai-research](https://github.com/Pick-Your-AI/pick-your-ai-research), including [T4: Agents & Integrations](https://github.com/Pick-Your-AI/pick-your-ai-research/issues/24) and [the coverage and routing audit](https://github.com/Pick-Your-AI/pick-your-ai-research/issues/509). Coordinate with those owners; do not duplicate or relocate accepted findings without agreement.
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) before proposing work.
+
+## Contributor routing
+
+For a blocked decision, use [the repository routing procedure](CONTRIBUTING.md#routing-decisions).
+Start with the existing issue and its accepted owner; preserve its scope and evidence requirements.
